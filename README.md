@@ -5,3 +5,4 @@
 1. Surge 3 macOS 版
 
 手机版没钱买，所以能不能不能用我也不知道，咱也不敢问
+2. Quantumult
